@@ -62,14 +62,14 @@ EnableHibernation
 
 DisableActionCenter
 HideAccountProtectionWarn
-DisableLockScreen
+# DisableLockScreen
 # DisableLockScreenRS1
-HideNetworkFromLockScreen
-#HideShutdownFromLockScreen
+# HideNetworkFromLockScreen
+# HideShutdownFromLockScreen
 DisableStickyKeys
 ShowTaskManagerDetails
 ShowFileOperationsDetails
-# EnableFileDeleteConfirm
+EnableFileDeleteConfirm
 HideTaskbarSearch
 #HideTaskView
 #ShowSmallTaskbarIcons
@@ -89,21 +89,21 @@ HideSelectCheckboxes
 HideSyncNotifications
 HideRecentShortcuts
 SetExplorerThisPC
-#ShowThisPCOnDesktop
-# ShowUserFolderOnDesktop
-HideDesktopFromThisPC
+ShowThisPCOnDesktop
+ShowUserFolderOnDesktop
+# HideDesktopFromThisPC
 # HideDesktopFromExplorer
-HideDocumentsFromThisPC
+# HideDocumentsFromThisPC
 # HideDocumentsFromExplorer
-HideDownloadsFromThisPC
+# HideDownloadsFromThisPC
 # HideDownloadsFromExplorer
-HideMusicFromThisPC
+# HideMusicFromThisPC
 # HideMusicFromExplorer
-HidePicturesFromThisPC
+# HidePicturesFromThisPC
 # HidePicturesFromExplorer
-HideVideosFromThisPC
+# HideVideosFromThisPC
 # HideVideosFromExplorer
-Hide3DObjectsFromThisPC
+# Hide3DObjectsFromThisPC
 # Hide3DObjectsFromExplorer
 # DisableThumbnails
 DisableThumbnailCache
@@ -122,8 +122,8 @@ DisableEdgeShortcutCreation
 # UninstallWorkFolders
 # InstallLinuxSubsystem
 # InstallHyperV
-SetPhotoViewerAssociation
-AddPhotoViewerOpenWith
+# SetPhotoViewerAssociation
+# AddPhotoViewerOpenWith
 # UninstallPDFPrinter
 UninstallXPSPrinter
 RemoveFaxPrinter
